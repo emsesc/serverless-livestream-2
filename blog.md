@@ -1,7 +1,7 @@
 # [Replace this with your project title]
 
 ## About Me
-I'm testing
+
 ## The Premise
 
 ## Tools used
